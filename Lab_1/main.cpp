@@ -4,6 +4,8 @@
 * Исследование комментариев C++ в IDE Qt Creator
 *
 * Developer: Проскоряков Алексей
+* OS: MacOS Sequoia 15.3.2
+* locale: UTF-8
 */
 
 
