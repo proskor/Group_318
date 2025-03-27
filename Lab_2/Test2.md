@@ -221,9 +221,13 @@ int main() {
 #### a)
 
 (true && true) || false               -> true
+
 (false && true) || true               -> false
+
 (false && true) || false || true      -> false
+
 (5 > 6 || 4 > 3) && (7 > 8)           -> true
+
 !(7 > 6 || 3 > 4)                     -> false 
 
 #### b) Ответ: 1
